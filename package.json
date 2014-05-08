@@ -1,0 +1,32 @@
+{
+  "name": "promise-node-core",
+  "version": "1.0.0",
+  "description": "Promise for all node core modules async functions",
+  "scripts": {
+    "start": "node index"
+  },
+  "author": {
+    "name": "Pradeep Mishra",
+    "email": "pradeep23oct@gmail.com"
+  },
+  "repository": {
+      "type": "git",
+      "url": "git://github.com/pradeep-mishra/promise-node-core.git"
+  },
+  "license": "MIT",
+  "readmeFilename": "README.md",
+  "keywords": [
+      "promise-core",
+      "promise-node-core",
+      "promise-core-node",
+      "pnc",
+      "promise-core-node-modules",
+      "core-promise",
+      "node-promise-core-module",
+      "promise-fore-node-core",
+      "promise for node core modules"    
+  ]
+  "dependencies": {
+    "promise": "~4.0.0"
+  }
+}
