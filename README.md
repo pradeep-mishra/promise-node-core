@@ -1,3 +1,7 @@
+[![NPM](https://nodei.co/npm/promise-node-core.svg?downloads=true&downloadRank=true)](https://nodei.co/npm/promise-node-core/)&nbsp;&nbsp;
+[![Build Status](https://travis-ci.org/pradeep-mishra/promise-node-core.svg?branch=master)](https://travis-ci.org/pradeep-mishra/promise-node-core)
+
+
 promise-node-core
 =================
 

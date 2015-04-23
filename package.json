@@ -1,6 +1,6 @@
 {
   "name": "promise-node-core",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "Promise for all node core modules async functions",
   "scripts": {
     "start": "node index"
